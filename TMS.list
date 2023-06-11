@@ -1,7 +1,7 @@
 #TMS
+DOMAIN,tw.hicdn.beanfun.com
 IP-CIDR,202.80.104.0/24 #主程序目标IP
 IP-CIDR,13.230.125.0/24
 IP-CIDR,52.198.167.0/24
 IP-CIDR,52.68.37.0/24
-DOMAIN,tw.hicdn.beanfun.com
 PROCESS-NAME,MapleStory.exe
