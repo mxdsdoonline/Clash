@@ -1,10 +1,11 @@
 #爱奇艺
-DOMAIN,iqiyi.com
-DOMAIN,m.iqiyi.com
-DOMAIN,video.iqiyi.com
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,gitv.tv
+DOMAIN,iqiyi.com
+DOMAIN,m.iqiyi.com
+DOMAIN,video.iqiyi.com
+DOMAIN-KEYWORD,iqiyi
 IP-CIDR,23.40.241.251/32
 IP-CIDR,23.40.242.10/32
 IP-CIDR,103.44.56.0/22
