@@ -1,7 +1,4 @@
 #TMS
-DOMAIN-SUFFIX,beanfun.com
-DOMAIN-KEYWORD,beanfun
-
 #主程序目标IP 
 IP-CIDR,202.80.104.0/24
 
