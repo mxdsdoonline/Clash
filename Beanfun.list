@@ -4,5 +4,5 @@ DOMAIN,beanfun.com
 DOMAIN,tw.hicdn.beanfun.com
 DOMAIN,bfweb.hk.beanfun.com
 DOMAIN-KEYWORD,beanfun
-IP-CIDR,15.164.136/32
+IP-CIDR,15.164.136.0/32
 PROCESS-NAME,Beanfun.exe
