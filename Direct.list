@@ -1,0 +1,5 @@
+#全球直连
+IP-CIDR,20.198.162.76/32
+PROCESS-NAME,Thunder.exe
+PROCESS-NAME,DownloadSDKServer.exe
+PROCESS-NAME,NVIDIA Web Helper.exe
