@@ -4,6 +4,7 @@ DOMAIN,beanfun.com
 DOMAIN,tw.hicdn.beanfun.com
 DOMAIN,bfweb.hk.beanfun.com
 DOMAIN-KEYWORD,beanfun
+IP-CIDR,3.34.215.0/24
 IP-CIDR,3.36.134.0/24
 IP-CIDR,13.107.0.0/16
 IP-CIDR,13.230.125.0/24
