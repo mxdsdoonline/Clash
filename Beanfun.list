@@ -4,8 +4,7 @@ DOMAIN-SUFFIX,beanfun.com
 DOMAIN,beanfun.com
 DOMAIN,tw.hicdn.beanfun.com
 DOMAIN-KEYWORD,beanfun
-IP-CIDR,3.34.215.0/24
-IP-CIDR,3.36.134.0/24
+IP-CIDR,3.0.0.0/8
 #privacy.xboxlive.com:443
 IP-CIDR,13.107.0.0/16
 
