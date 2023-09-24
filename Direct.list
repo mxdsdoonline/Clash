@@ -1,6 +1,7 @@
 #全球直连
 IP-CIDR,65.8.164.0/24
 IP-CIDR,112.67.249.0/24
+PROCESS-NAME,javaw.exe
 PROCESS-NAME,jianpian.exe
 PROCESS-NAME,Thunder.exe
 PROCESS-NAME,DownloadSDKServer.exe
