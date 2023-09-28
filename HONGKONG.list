@@ -1,6 +1,6 @@
 #HONGKONG
 #privacy.xboxlive.com:443
-privacy.xboxlive.com
+DOMAIN,privacy.xboxlive.com
 PROCESS-NAME,GameBarPresenceWriter.exe
 IP-CIDR,13.107.0.0/16
 
