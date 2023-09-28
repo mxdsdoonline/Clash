@@ -2,6 +2,7 @@
 #privacy.xboxlive.com:443
 DOMAIN,privacy.xboxlive.com
 PROCESS-NAME,GameBarPresenceWriter.exe
+PROCESS-NAME,svchost.exe
 IP-CIDR,13.107.0.0/16
 
 IP-CIDR,3.34.169.222/32
