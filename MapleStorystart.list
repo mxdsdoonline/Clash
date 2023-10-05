@@ -7,3 +7,7 @@ PROCESS-NAME,BlackXchg.aes
 PROCESS-NAME,BlackCall64.aes
 PROCESS-NAME,BlackCipher64.aes
 PROCESS-NAME,NGClient64.aes
+PROCESS-NAME,nvcontainer.exe
+#72.25.64.2:443
+
+#20.197.71.89:443
