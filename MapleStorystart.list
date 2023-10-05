@@ -6,3 +6,4 @@ PROCESS-NAME,svchost.exe
 PROCESS-NAME,BlackXchg.aes
 PROCESS-NAME,BlackCall64.aes
 PROCESS-NAME,BlackCipher64.aes
+PROCESS-NAME,NGClient64.aes
