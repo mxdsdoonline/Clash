@@ -1,4 +1,5 @@
 PROCESS-NAME,wegame.exe
+PROCESS-NAME,browser.exe
 PROCESS-NAME,CrossProxy.exe
 PROCESS-NAME,LeagueClient.exe
 PROCESS-NAME,League of Legends.exe
