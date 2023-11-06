@@ -5,3 +5,4 @@ PROCESS-NAME,LeagueClient.exe
 PROCESS-NAME,League of Legends.exe
 PROCESS-NAME,LeagueClientUxRender.exe
 PROCESS-NAME,RiotClientServices.exe
+PROCESS-NAME,RiotClientUx.exe
