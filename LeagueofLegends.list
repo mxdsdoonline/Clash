@@ -1,3 +1,8 @@
+DOMAIN-SUFFIX,riotgame.com
+DOMAIN-SUFFIX,leagueoflegends.com
+DOMAIN-KEYWORD,Riot
+DOMAIN-KEYWORD,leagueoflegends
+DOMAIN-KEYWORD,League of Legends
 PROCESS-NAME,wegame.exe
 PROCESS-NAME,browser.exe
 PROCESS-NAME,CrossProxy.exe
