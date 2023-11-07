@@ -13,3 +13,4 @@ PROCESS-NAME,Leagur of Legends(TM)Client.exe
 PROCESS-NAME,LeagueClientUxRender.exe
 PROCESS-NAME,RiotClientServices.exe
 PROCESS-NAME,RiotClientUx.exe
+IP-CIDR,103.240.224.172/32
