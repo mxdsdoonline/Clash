@@ -9,7 +9,6 @@ PROCESS-NAME,browser.exe
 PROCESS-NAME,CrossProxy.exe
 PROCESS-NAME,LeagueClient.exe
 PROCESS-NAME,League of Legends.exe
-PROCESS-NAME,Leagur of Legends(TM)Client.exe
 PROCESS-NAME,LeagueClientUxRender.exe
 PROCESS-NAME,RiotClientServices.exe
 PROCESS-NAME,RiotClientUx.exe
