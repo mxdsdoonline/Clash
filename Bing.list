@@ -1,9 +1,9 @@
 # NAME: Bing
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-25 16:06:04
+# UPDATED: 2024-04-14 14:51:21
 # DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# TOTAL: 13
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN,copilot.microsoft.com
 DOMAIN-KEYWORD,copilot
+PROCESS-NAME,msedge.exe
