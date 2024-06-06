@@ -2,6 +2,7 @@
 PROCESS-NAME,BlackXchg.aes
 PROCESS-NAME,BlackCall64.aes
 PROCESS-NAME,BlackCipher64.aes
+PROCESS-NAME,vmnat.exe
 
 DOMAIN-SUFFIX,symcb.com
 DOMAIN,s1.symcb.com
