@@ -1,6 +1,3 @@
-name: iqiyi icon
-desc: 更换
-
   - name: ℹ️ 爱奇艺
   type: select
   icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png #!replace
