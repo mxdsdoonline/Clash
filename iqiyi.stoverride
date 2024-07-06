@@ -1,11 +1,11 @@
 name: iqiyi icon
-desc: 更换 
-  - name: ℹ️ 爱奇艺
-    type: select
-    proxies:
-      - 🛰️ 全球直连
-      - 🇭🇰🇲🇴🇹🇼 港澳台
-      - 🇭🇰 香港
-      - 🇹🇼 台湾
-      - 🎯 默认选择
-      - ☑️ 手动切换
+desc: 更换
+- name: ℹ️ 爱奇艺
+  type: select
+  proxies:
+    - 🛰️ 全球直连
+    - 🇭🇰🇲🇴🇹🇼 港澳台
+    - 🇭🇰 香港
+    - 🇹🇼 台湾
+    - 🎯 默认选择
+    - ☑️ 手动切换
