@@ -1,6 +1,6 @@
 - name: ℹ️ 爱奇艺
   type: select
-  icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png
+  icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png #!replace
   proxies:
     - 🛰️ 全球直连
     - 🇭🇰🇲🇴🇹🇼 港澳台
