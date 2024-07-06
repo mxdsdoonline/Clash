@@ -1,0 +1,12 @@
+name: iqiyi icon
+desc: iqiyi icon更换
+  - name: ℹ️ 爱奇艺
+    icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png #!replace
+    type: select
+    proxies:
+      - 🛰️ 全球直连
+      - 🇭🇰🇲🇴🇹🇼 港澳台
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - 🎯 默认选择
+      - ☑️ 手动切换
