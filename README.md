@@ -1,2 +1,2 @@
-# Clash
-Clash Profiles
+# Clash config
+Clash for Windows config & rules
