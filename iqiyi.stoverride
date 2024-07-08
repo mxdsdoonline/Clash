@@ -1,8 +1,8 @@
 name: "Icon Override for 爱奇艺"
 
-key: - name: 爱奇艺 #!replace
+key: - name: 爱奇艺
 proxy-groups:
-    - name: 爱奇艺
+    - name: 爱奇艺 #!replace
     type: select
     proxies:
       - 🛰️ 全球直连
