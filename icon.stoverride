@@ -1,5 +1,13 @@
-rules:
-  - type: replace
-    selector: policy-groups[name=ℹ️ 爱奇艺]
-    payload:
-      icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png
+name: "Icon Override for 愛奇藝"
+payload:
+  group:
+    - name: "ℹ️ 愛奇藝"
+      type: "select"
+      icon: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png"
+      proxies:
+        - "🛰️ 全球直连"
+        - "🇭🇰🇲🇴🇹🇼 港澳台"
+        - "🇭🇰 香港"
+        - "🇹🇼 台湾"
+        - "🎯 默认选择"
+        - "☑️ 手动切换"
