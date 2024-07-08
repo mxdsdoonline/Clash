@@ -1,13 +1,10 @@
 name: "Icon Override for 愛奇藝"
-payload:
-  group:
+desc: "Icon Override for 愛奇藝"
+resources:
+  - icon: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png"
+filter:
+  - DOMAIN-KEYWORD,iqiyi,愛奇藝
+replace:
+  proxy-groups:
     - name: "ℹ️ 愛奇藝"
-      type: "select"
       icon: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png"
-      proxies:
-        - "🛰️ 全球直连"
-        - "🇭🇰🇲🇴🇹🇼 港澳台"
-        - "🇭🇰 香港"
-        - "🇹🇼 台湾"
-        - "🎯 默认选择"
-        - "☑️ 手动切换"
