@@ -6,13 +6,10 @@ resources:
 
 # 在 proxy-groups 下定义覆盖策略
 proxy-groups:
-  - name: "ℹ️ 爱奇艺"
+  - name: "爱奇艺"
     icon: "iQIYI" # 引用在 resources 中定义的图标
     type: select
     proxies:
       - "🛰️ 全球直连"
-      - "🇭🇰🇲🇴🇹🇼 港澳台"
       - "🇭🇰 香港"
       - "🇹🇼 台湾"
-      - "🎯 默认选择"
-      - "☑️ 手动切换"
