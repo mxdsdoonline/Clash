@@ -1,10 +1,6 @@
 name: "Icon Override for 愛奇藝"
-desc: "Icon Override for 愛奇藝"
 resources:
   - icon: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png"
-filter:
-  - DOMAIN-KEYWORD,iqiyi,愛奇藝
-replace:
-  proxy-groups:
-    - name: "ℹ️ 愛奇藝"
-      icon: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png"
+proxy-groups:
+  - name: "ℹ️ 愛奇藝"
+    icon: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png"
