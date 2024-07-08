@@ -1,6 +1,4 @@
-name: iqiyi icon
-desc: 更换
-
+name: "Icon Override for 爱奇艺"
 # 在 resources 下添加图标链接
 resources:
   icons:
