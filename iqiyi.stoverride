@@ -1,4 +1,7 @@
-name: 更换爱奇艺icon
+name: 添加爱奇艺icon
+desc: 添加icon 
+category: icon
+
 proxy-groups:
   - name: 爱奇艺 #!replace
     type: select
