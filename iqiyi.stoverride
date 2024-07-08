@@ -1,11 +1,11 @@
 name: "Icon Override for 爱奇艺"
 
 proxy-groups:
-  - name: 爱奇艺 #!replace
+  - name: 爱奇艺
     type: select
     proxies:
       - 🛰️ 全球直连
       - 🇭🇰 香港
       - 🇹🇼 台湾
       - REJECT
-    icon: "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI.png"
+    icon: "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI.png" #!replace
