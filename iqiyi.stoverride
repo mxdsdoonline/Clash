@@ -1,6 +1,6 @@
 name: "Icon Override for 爱奇艺"
 payload:
-  group:
+proxy-groups:
     - name: "爱奇艺"
       type: "select"
       icon: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png"
