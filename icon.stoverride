@@ -10,6 +10,7 @@ proxy-groups:
     icon: "iQIYI" # 引用在 resources 中定义的图标
     type: select
     proxies:
-      - "🛰️ 全球直连"
-      - "🇭🇰 香港"
-      - "🇹🇼 台湾"
+      - 🛰️ 全球直连
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - REJECT
