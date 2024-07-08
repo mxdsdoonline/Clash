@@ -1,5 +1,3 @@
 name: "icon"
-
-proxy-groups:
-  - name: "爱奇艺"
-    icon: "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI.png"
+- name: "爱奇艺"
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI.png #!replace
