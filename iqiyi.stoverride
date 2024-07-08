@@ -1,18 +1,11 @@
 name: "Icon Override for 爱奇艺"
-# 在 resources 下添加图标链接
-resources:
-  icons:
-    iQIYI: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png"
-
-# 在 proxy-groups 下定义覆盖策略
-proxy-groups:
-  - name: "ℹ️ 爱奇艺"
-    icon: "iQIYI" # 引用在 resources 中定义的图标
-    type: select
-    proxies:
-      - "🛰️ 全球直连"
-      - "🇭🇰🇲🇴🇹🇼 港澳台"
-      - "🇭🇰 香港"
-      - "🇹🇼 台湾"
-      - "🎯 默认选择"
-      - "☑️ 手动切换"
+payload:
+  group:
+    - name: "爱奇艺"
+      type: "select"
+      icon: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png"
+      proxies:
+      - 🛰️ 全球直连
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - REJECT
