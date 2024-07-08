@@ -6,8 +6,8 @@ resources:
 
 # 在 proxy-groups 下定义覆盖策略
 proxy-groups:
-  - name: "爱奇艺"
-    icon: "iQIYI" # 引用在 resources 中定义的图标
+  - name: "爱奇艺" #!replace
+    icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png
     type: select
     proxies:
       - 🛰️ 全球直连
