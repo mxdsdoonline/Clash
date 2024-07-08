@@ -1,6 +1,6 @@
-name: "Icon Override for 愛奇藝"
+name: "Icon Override for 爱奇艺"
 resources:
   - icon: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png"
 proxy-groups:
-  - name: "ℹ️ 愛奇藝"
+  - name: "ℹ️ 爱奇艺"
     icon: "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/iQIYI.png"
