@@ -1,9 +1,10 @@
 name: 更换爱奇艺icon
-- name: 爱奇艺
-    type: select #!replace
-    proxies: #!replace
+proxy-groups:
+  - name: 爱奇艺 #!replace
+    type: select
+    proxies:
       - 🛰️ 全球直连
       - 🇭🇰 香港
       - 🇹🇼 台湾
       - REJECT
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI.png #!replace
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI.png
