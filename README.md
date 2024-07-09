@@ -1,2 +1,2 @@
 # Clash config
-Clash for Windows config & rules
+Clash config & rules
