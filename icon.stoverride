@@ -3,17 +3,10 @@ desc: 添加icon
 category: icon
 
 proxy-groups:
-  - name: 🐟 漏网之鱼
-    type: select
-    proxies:
-      - 🛰️ 全球直连
-      - 🎯 默认选择
-      - ☑️ 手动切换
-      - REJECT
   - name: 爱奇艺
     type: select
     proxies:
-      - 🛰️ 全球直连
+      - 🇨🇳 中国大陆
       - 🇭🇰 香港
       - 🇹🇼 台湾
       - REJECT
@@ -21,7 +14,7 @@ proxy-groups:
   - name: 哔哩哔哩
     type: select
     proxies:
-      - 🛰️ 全球直连
+      - 🇨🇳 中国大陆
       - 🇭🇰 香港
       - 🇹🇼 台湾
       - REJECT
@@ -29,7 +22,7 @@ proxy-groups:
   - name: 网易云音乐
     type: select
     proxies:
-      - 🛰️ 全球直连
+      - 🇨🇳 中国大陆
       - 🇭🇰 香港
       - 🇹🇼 台湾
       - REJECT
@@ -37,7 +30,7 @@ proxy-groups:
   - name: Apple
     type: select
     proxies:
-      - 🛰️ 全球直连
+      - 🇨🇳 中国大陆
       - 🎯 默认选择
       - ☑️ 手动切换
       - 🇭🇰 香港
@@ -52,7 +45,7 @@ proxy-groups:
   - name: Spotify
     type: select
     proxies:
-      - 🛰️ 全球直连
+      - 🇨🇳 中国大陆
       - 🎯 默认选择
       - ☑️ 手动切换
       - 🇭🇰 香港
