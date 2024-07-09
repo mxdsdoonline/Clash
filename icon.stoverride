@@ -1,3 +1,110 @@
-name: "icon"
-- name: "爱奇艺"
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI.png #!replace
+name: 添加icon
+desc: 添加icon 
+category: icon
+
+proxy-groups:
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🛰️ 全球直连
+      - 🎯 默认选择
+      - ☑️ 手动切换
+      - REJECT
+  - name: 爱奇艺
+    type: select
+    proxies:
+      - 🛰️ 全球直连
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - REJECT
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI.png
+  - name: 哔哩哔哩
+    type: select
+    proxies:
+      - 🛰️ 全球直连
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - REJECT
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili.png
+  - name: 网易云音乐
+    type: select
+    proxies:
+      - 🛰️ 全球直连
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - REJECT
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music.png
+  - name: Apple
+    type: select
+    proxies:
+      - 🛰️ 全球直连
+      - 🎯 默认选择
+      - ☑️ 手动切换
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - 🇸🇬 狮城
+      - 🇯🇵 日本
+      - 🇰🇷 韩国
+      - 🇺🇸 美国
+      - 🇪🇺 欧洲
+      - REJECT
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_2.png
+  - name: Spotify
+    type: select
+    proxies:
+      - 🛰️ 全球直连
+      - 🎯 默认选择
+      - ☑️ 手动切换
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - 🇸🇬 狮城
+      - 🇯🇵 日本
+      - 🇰🇷 韩国
+      - 🇺🇸 美国
+      - 🇪🇺 欧洲
+      - REJECT
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+  - name: YouTube
+    type: select
+    proxies:
+      - 🎯 默认选择
+      - ☑️ 手动切换
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - 🇸🇬 狮城
+      - 🇯🇵 日本
+      - 🇰🇷 韩国
+      - 🇺🇸 美国
+      - 🇪🇺 欧洲
+      - 🛰️ 全球直连
+      - REJECT
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
+  - name: Bing
+    type: select
+    proxies:
+      - 🎯 默认选择
+      - ☑️ 手动切换
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - 🇸🇬 狮城
+      - 🇯🇵 日本
+      - 🇰🇷 韩国
+      - 🇺🇸 美国
+      - 🇪🇺 欧洲
+      - 🛰️ 全球直连
+      - REJECT
+    icon: https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/bing.png
+  - name: OpenAI
+    type: select
+    proxies:
+      - 🇹🇼 台湾
+      - 🇸🇬 狮城
+      - 🇯🇵 日本
+      - 🇰🇷 韩国
+      - 🇺🇸 美国
+      - 🇪🇺 欧洲
+      - 🎯 默认选择
+      - ☑️ 手动切换
+      - 🛰️ 全球直连
+      - REJECT
+    icon: https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/openai.png
