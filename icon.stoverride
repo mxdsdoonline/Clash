@@ -79,7 +79,22 @@ proxy-groups:
       - 🛰️ 全球直连
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
-  - name: Bing
+  - name: Tinder
+    type: select
+    proxies:
+      - 🎯 默认选择
+      - ☑️ 手动切换
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - 🇸🇬 狮城
+      - 🇯🇵 日本
+      - 🇰🇷 韩国
+      - 🇺🇸 美国
+      - 🇪🇺 欧洲
+      - 🛰️ 全球直连
+      - REJECT
+    icon: https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/tinder.png
+ - name: Bing
     type: select
     proxies:
       - 🎯 默认选择
