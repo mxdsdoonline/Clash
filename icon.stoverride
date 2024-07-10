@@ -10,6 +10,7 @@ proxy-groups:
       - 🇨🇳 中国大陆
       - 🇭🇰 香港
       - 🇹🇼 台湾
+      - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI.png
   - name: 哔哩哔哩
@@ -18,6 +19,7 @@ proxy-groups:
       - 🇨🇳 中国大陆
       - 🇭🇰 香港
       - 🇹🇼 台湾
+      - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili.png
   - name: 网易云音乐
@@ -26,6 +28,7 @@ proxy-groups:
       - 🇨🇳 中国大陆
       - 🇭🇰 香港
       - 🇹🇼 台湾
+      - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music.png
   - name: Apple
@@ -41,6 +44,8 @@ proxy-groups:
       - 🇪🇺 欧洲
       - 🎯 默认选择
       - ☑️ 手动切换
+      - 🛰️ 全球直连
+      - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_2.png
   - name: Spotify
@@ -56,6 +61,8 @@ proxy-groups:
       - 🇪🇺 欧洲
       - 🎯 默认选择
       - ☑️ 手动切换
+      - 🛰️ 全球直连
+      - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
   - name: YouTube
@@ -71,6 +78,7 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - 🛰️ 全球直连
+      - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
   - name: Tinder
@@ -86,6 +94,7 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - 🛰️ 全球直连
+      - DIRECT
       - REJECT
     icon: https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/tinder.png
   - name: Bing
@@ -101,6 +110,7 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - 🛰️ 全球直连
+      - DIRECT
       - REJECT
     icon: https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/bing.png
   - name: OpenAI
@@ -115,5 +125,6 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - 🛰️ 全球直连
+      - DIRECT
       - REJECT
     icon: https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/openai.png
