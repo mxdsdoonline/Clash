@@ -1,10 +1,11 @@
-name: Custom proxy groups and ICONS
-desc: Custom proxy groups and ICONS
-category: proxy groups
+name: 添加icon
+desc: 添加icon 
+category: icon
 icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png
 
 proxy-groups:
   - name: IOS_update
+      - 🚫 拒绝请求
       - REJECT
       - DIRECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Update.png
