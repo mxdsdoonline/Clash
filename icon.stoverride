@@ -1,9 +1,13 @@
-name: 添加icon
-desc: 添加icon 
-category: icon
-icon: https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/%24tash.png
+name: Custom proxy groups and ICONS
+desc: Custom proxy groups and ICONS
+category: proxy groups
+icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png
 
 proxy-groups:
+  - name: IOS_update
+      - REJECT
+      - DIRECT
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Update.png
   - name: 爱奇艺
     type: select
     proxies:
