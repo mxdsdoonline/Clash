@@ -5,7 +5,8 @@ icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.
 
 proxy-groups:
   - name: IOS_update
-      - 🚫 拒绝请求
+    type: select
+    proxies:
       - REJECT
       - DIRECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Update.png
