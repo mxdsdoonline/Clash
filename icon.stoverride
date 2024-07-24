@@ -71,6 +71,23 @@ proxy-groups:
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+  - name: Tinder
+    type: select
+    proxies:
+      - 🇨🇳 中国大陆
+      - 🇭🇰 香港
+      - 🇹🇼 台湾
+      - 🇸🇬 狮城
+      - 🇯🇵 日本
+      - 🇰🇷 韩国
+      - 🇺🇸 美国
+      - 🇪🇺 欧洲
+      - 🎯 默认选择
+      - ☑️ 手动切换
+      - 🛰️ 全球直连
+      - DIRECT
+      - REJECT
+    icon: https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/tinder.png
   - name: YouTube
     type: select
     proxies:
@@ -87,22 +104,6 @@ proxy-groups:
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
-  - name: Tinder
-    type: select
-    proxies:
-      - 🇭🇰 香港
-      - 🇹🇼 台湾
-      - 🇸🇬 狮城
-      - 🇯🇵 日本
-      - 🇰🇷 韩国
-      - 🇺🇸 美国
-      - 🇪🇺 欧洲
-      - 🎯 默认选择
-      - ☑️ 手动切换
-      - 🛰️ 全球直连
-      - DIRECT
-      - REJECT
-    icon: https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/tinder.png
   - name: Bing
     type: select
     proxies:
