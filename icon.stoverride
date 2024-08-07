@@ -4,11 +4,6 @@ category: proxy groups
 icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png
 
 proxy-groups:
-  - name: 🚫 拒绝请求
-    type: select
-    proxies:
-      - REJECT
-      - DIRECT
   - name: 白名单
     type: select
     proxies:
