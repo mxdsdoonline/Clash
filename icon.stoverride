@@ -22,13 +22,6 @@ proxy-groups:
       - REJECT
       - DIRECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdBlack.png
-  - name: 黑名单
-    type: select
-    proxies:
-      - 🚫 拒绝请求
-      - REJECT
-      - DIRECT
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdBlack.png
   - name: IOS_update
     type: select
     proxies:
