@@ -64,7 +64,7 @@ proxy-groups:
       - 🇪🇺 欧洲
       - 🎯 默认选择
       - ☑️ 手动切换
-      - 🛰️ 全球直连
+      - ⭕ 直连请求
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_2.png
@@ -81,7 +81,7 @@ proxy-groups:
       - 🇪🇺 欧洲
       - 🎯 默认选择
       - ☑️ 手动切换
-      - 🛰️ 全球直连
+      - ⭕ 直连请求
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
@@ -98,7 +98,7 @@ proxy-groups:
       - 🇪🇺 欧洲
       - 🎯 默认选择
       - ☑️ 手动切换
-      - 🛰️ 全球直连
+      - ⭕ 直连请求
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/tinder.png
@@ -114,7 +114,7 @@ proxy-groups:
       - 🇪🇺 欧洲
       - 🎯 默认选择
       - ☑️ 手动切换
-      - 🛰️ 全球直连
+      - ⭕ 直连请求
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
@@ -130,7 +130,7 @@ proxy-groups:
       - 🇪🇺 欧洲
       - 🎯 默认选择
       - ☑️ 手动切换
-      - 🛰️ 全球直连
+      - ⭕ 直连请求
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/x.png
@@ -146,7 +146,7 @@ proxy-groups:
       - 🇪🇺 欧洲
       - 🎯 默认选择
       - ☑️ 手动切换
-      - 🛰️ 全球直连
+      - ⭕ 直连请求
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/telegram.png
@@ -162,7 +162,7 @@ proxy-groups:
       - 🇪🇺 欧洲
       - 🎯 默认选择
       - ☑️ 手动切换
-      - 🛰️ 全球直连
+      - ⭕ 直连请求
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/bing.png
@@ -177,7 +177,7 @@ proxy-groups:
       - 🇪🇺 欧洲
       - 🎯 默认选择
       - ☑️ 手动切换
-      - 🛰️ 全球直连
+      - ⭕ 直连请求
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/openai.png
