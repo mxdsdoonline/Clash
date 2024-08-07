@@ -4,31 +4,31 @@ category: proxy groups
 icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png
 
 proxy-groups:
+  - name: 🚫 拒绝请求
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
   - name: 白名单
     type: select
     proxies:
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdWhite.png
-  - name: 🚫 拒绝请求
-    type: select
-    proxies:
-      - REJECT
-      - DIRECT
-  - name: 开屏广告
+  - name: 黑名单
     type: select
     proxies:
       - 🚫 拒绝请求
       - REJECT
       - DIRECT
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
-  - name: 拦截广告
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdBlack.png
+  - name: 黑名单
     type: select
     proxies:
       - 🚫 拒绝请求
       - REJECT
       - DIRECT
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdBlack.png
   - name: IOS_update
     type: select
     proxies:
