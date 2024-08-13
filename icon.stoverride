@@ -41,7 +41,7 @@ proxy-groups:
       - 🇹🇼 台湾
       - DIRECT
       - REJECT
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili.png
+    icon: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/bilibili.png
   - name: 网易云音乐
     type: select
     proxies:
