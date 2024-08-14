@@ -7,6 +7,7 @@ proxy-groups:
   - name: 白名单
     type: select
     proxies:
+      - ⭕ 直连请求
       - DIRECT
       - REJECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdWhite.png
