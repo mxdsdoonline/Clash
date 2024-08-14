@@ -1,2 +1,2 @@
 # Clash config
-Clash config & rules
+Clash ACL4SSR config & rules
