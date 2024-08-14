@@ -50,7 +50,7 @@ proxy-groups:
       - 🇹🇼 台湾
       - DIRECT
       - REJECT
-    icon: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/neteasemusic.png
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music.png
   - name: Apple
     type: select
     proxies:
