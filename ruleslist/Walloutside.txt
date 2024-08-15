@@ -1,0 +1,4 @@
+;Perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN,perplexity
+DOMAIN-KEYWORD,perplexity
