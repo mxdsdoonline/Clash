@@ -8,22 +8,20 @@ proxy-groups:
     type: select
     proxies:
       - ⭕ 直连请求
-      - DIRECT
-      - REJECT
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdWhite.png
   - name: 黑名单
     type: select
     proxies:
       - 🚫 拒绝请求
-      - REJECT
+      - ⭕ 直连请求
       - DIRECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdBlack.png
   - name: IOS_update
     type: select
     proxies:
       - 🚫 拒绝请求
-      - REJECT
-      - DIRECT
+      - ⭕ 直连请求
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Update.png
   - name: 爱奇艺
     type: select
@@ -31,8 +29,8 @@ proxy-groups:
       - 🇨🇳 中国大陆
       - 🇭🇰 香港
       - 🇹🇼 台湾
-      - DIRECT
-      - REJECT
+      - ⭕ 直连请求
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI_1.png
   - name: 哔哩哔哩
     type: select
@@ -40,8 +38,8 @@ proxy-groups:
       - 🇨🇳 中国大陆
       - 🇭🇰 香港
       - 🇹🇼 台湾
-      - DIRECT
-      - REJECT
+      - ⭕ 直连请求
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili_3.png
   - name: 网易云音乐
     type: select
@@ -49,8 +47,8 @@ proxy-groups:
       - 🇨🇳 中国大陆
       - 🇭🇰 香港
       - 🇹🇼 台湾
-      - DIRECT
-      - REJECT
+      - ⭕ 直连请求
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music.png
   - name: Apple
     type: select
@@ -66,8 +64,7 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - ⭕ 直连请求
-      - DIRECT
-      - REJECT
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_2.png
   - name: Spotify
     type: select
@@ -83,8 +80,7 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - ⭕ 直连请求
-      - DIRECT
-      - REJECT
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
   - name: Tinder
     type: select
@@ -100,8 +96,7 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - ⭕ 直连请求
-      - DIRECT
-      - REJECT
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/tinder.png
   - name: YouTube
     type: select
@@ -116,8 +111,7 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - ⭕ 直连请求
-      - DIRECT
-      - REJECT
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
   - name: X
     type: select
@@ -132,8 +126,7 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - ⭕ 直连请求
-      - DIRECT
-      - REJECT
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/x.png
   - name: Telegram
     type: select
@@ -148,8 +141,7 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - ⭕ 直连请求
-      - DIRECT
-      - REJECT
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/telegram.png
   - name: Bing
     type: select
@@ -164,8 +156,7 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - ⭕ 直连请求
-      - DIRECT
-      - REJECT
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/bing.png
   - name: OpenAI
     type: select
@@ -179,6 +170,5 @@ proxy-groups:
       - 🎯 默认选择
       - ☑️ 手动切换
       - ⭕ 直连请求
-      - DIRECT
-      - REJECT
+      - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/openai.png
