@@ -31,7 +31,6 @@ proxy-groups:
     proxies:
       - 🚫 拒绝请求
       - ⭕ 直连请求
-      - DIRECT
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AdBlack.png
   - name: IOS_update
     type: select
