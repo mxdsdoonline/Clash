@@ -12,7 +12,7 @@ proxy-groups:
       - ⭕ 直连请求
       - 🚫 拒绝请求
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/World_Map.png
-  - name: 墙内围城
+  - name: 墙内区域
     type: select
     proxies:
       - ⭕ 直连请求
