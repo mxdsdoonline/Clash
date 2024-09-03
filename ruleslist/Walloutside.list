@@ -2,3 +2,6 @@
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN,perplexity
 DOMAIN-KEYWORD,perplexity
+
+;pyTranscriber
+PROCESS-NAME,pyTranscriber.exe
