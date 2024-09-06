@@ -1,5 +1,8 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+#Adobe
+DOMAIN-SUFFIX,everesttech.net
+
 #同花顺
 DOMAIN-SUFFIX,10jqka.com.cn
 
