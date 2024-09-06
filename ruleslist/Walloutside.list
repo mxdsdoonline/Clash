@@ -5,3 +5,6 @@ DOMAIN-KEYWORD,perplexity
 
 ;pyTranscriber
 PROCESS-NAME,pyTranscriber.exe
+
+;Photoshop
+PROCESS-NAME,Photoshop.exe
