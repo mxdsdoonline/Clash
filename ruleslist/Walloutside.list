@@ -7,4 +7,7 @@ DOMAIN-KEYWORD,perplexity
 PROCESS-NAME,pyTranscriber.exe
 
 ;Photoshop
+DOMAIN-SUFFIX,Adobe.com
 PROCESS-NAME,Photoshop.exe
+DOMAIN-KEYWORD,Adobe
+DOMAIN-KEYWORD,Photoshop
