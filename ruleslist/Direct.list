@@ -3,6 +3,7 @@ IP-CIDR,198.18.0.1/32,no-resolve
 IP-CIDR,65.8.164.0/24,no-resolve
 IP-CIDR,112.67.249.0/24,no-resolve
 PROCESS-NAME,fdm.exe
+PROCESS-NAME,aria2c.exe
 PROCESS-NAME,Thunder.exe
 PROCESS-NAME,DownloadSDKServer.exe
 PROCESS-NAME,NVIDIA Web Helper.exe
