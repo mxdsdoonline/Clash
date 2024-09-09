@@ -10,6 +10,7 @@ PROCESS-NAME,pyTranscriber.exe
 DOMAIN-SUFFIX,Adobe.com
 PROCESS-NAME,Photoshop.exe
 PROCESS-NAME,Adobe Premiere Pro.exe
+PROCESS-NAME,CEPHtmlEngine.exe
 DOMAIN-KEYWORD,Adobe
 DOMAIN-KEYWORD,Photoshop
 DOMAIN-KEYWORD,Premiere Pro
