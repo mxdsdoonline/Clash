@@ -1,12 +1,12 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
-#Adobe
+# Adobe
 DOMAIN-SUFFIX,everesttech.net
 
-#同花顺
+# 同花顺
 DOMAIN-SUFFIX,10jqka.com.cn
 
-#Direct
+# Direct
 IP-CIDR,66.220.146.94/32,no-resolve
 
 # Epicgames
