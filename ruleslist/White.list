@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,everesttech.net
 #同花顺
 DOMAIN-SUFFIX,10jqka.com.cn
 
+#Direct
+IP-CIDR,66.220.146.94/32,no-resolve
+
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
